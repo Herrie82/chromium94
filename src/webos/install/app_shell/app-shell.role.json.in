@@ -1,5 +1,6 @@
 {
     "exeName": "/usr/bin/app-shell/app_shell",
+    "trustLevel" : "oem",
     "type": "privileged",
     "allowedNames": [
         "com.webos.app.enactbrowser",
